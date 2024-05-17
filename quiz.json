@@ -44,30 +44,6 @@
         }
       ]
       },
-
-      {
-        "factID": 2,
-        "quizContent": "",
-      "options": [
-        {
-            "value": 1,
-            "content": ""
-        },
-        {
-            "value": 0,
-            "content": ""
-        },
-        {
-            "value": 0,
-            "content": ""
-        },
-        {
-            "value": 0,
-            "content": ""
-        }
-      ]
-      },
-
       {
         "factID": 3,
         "quizContent": "Sungai Kapuas, adalah sungai terpanjang di Indonesia yang berda di kalimantan Barat, Jadi Sungai kapuas adalah yang terpanjang ke berapa di Dunia ?",
