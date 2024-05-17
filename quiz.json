@@ -1,0 +1,248 @@
+[
+    {
+      "factID": 1,
+      "quizContent": "Nama makanan yang merupakan hasil alkuturasi budaya lokal dan masyarakat Tionghua adalah ?",
+      "options": [
+        {
+            "value": 1,
+            "content": "Choi pan"
+        },
+        {
+            "value": 0,
+            "content": "Chai kue"
+        },
+        {
+            "value": 0,
+            "content": "Chai pan"
+        },
+        {
+            "value": 0,
+            "content": "Choi kue"
+        }
+      ]
+    },
+
+    {
+        "factID": 2,
+        "quizContent": "Tempoyak terbuat dari apa saja?",
+      "options": [
+        {
+            "value": 1,
+            "content": "Fermentasi durian dan ikan air tawar"
+        },
+        {
+            "value": 0,
+            "content": "Fermentasi durian dan ikan laut"
+        },
+        {
+            "value": 0,
+            "content": "Fermentasi ikan air tawar dan durian"
+        },
+        {
+            "value": 0,
+            "content": "Fermentasi durian dan ikan air laut"
+        }
+      ]
+      },
+
+      {
+        "factID": 2,
+        "quizContent": "",
+      "options": [
+        {
+            "value": 1,
+            "content": ""
+        },
+        {
+            "value": 0,
+            "content": ""
+        },
+        {
+            "value": 0,
+            "content": ""
+        },
+        {
+            "value": 0,
+            "content": ""
+        }
+      ]
+      },
+
+      {
+        "factID": 3,
+        "quizContent": "Sungai Kapuas, adalah sungai terpanjang di Indonesia yang berda di kalimantan Barat, Jadi Sungai kapuas adalah yang terpanjang ke berapa di Dunia ?",
+      "options": [
+        {
+            "value": 1,
+            "content": "3"
+        },
+        {
+            "value": 0,
+            "content": "1"
+        },
+        {
+            "value": 0,
+            "content": "2"
+        },
+        {
+            "value": 0,
+            "content": "4"
+        }
+      ]
+      },
+      {
+        "factID": 4,
+        "quizContent": "Lokasi apa yang menujukan keunikan Pontianak sebagai ibukota Kalimantan Barat",
+      "options": [
+        {
+            "value": 1,
+            "content": "Tugu Khatulistiwa"
+        },
+        {
+            "value": 0,
+            "content": "Museum Negeri Pontianak"
+        },
+        {
+            "value": 0,
+            "content": "Tugu Digulis"
+        },
+        {
+            "value": 0,
+            "content": "Tugu Pancasila"
+        }
+      ]
+      },
+
+      {
+        "factID": 5,
+        "quizContent": "Kemana kita harus pergi untuk mempelajari sejarah, seni dan budaya lokal di Kalimantan Barat",
+      "options": [
+        {
+            "value": 1,
+            "content": "Museum Negeri Pontianak"
+        },
+        {
+            "value": 0,
+            "content": "Museum Pontianak"
+        },
+        {
+            "value": 0,
+            "content": "Museum Negeri Kalimantan Barat"
+        },
+        {
+            "value": 0,
+            "content": "Museum Nasional Pontianak"
+        }
+      ]
+      },
+      {
+        "factID": 6,
+        "quizContent": "Tanjung Bajau adalah tempat wisata yang populer di Kalimantan Barat, di kota ....?",
+      "options": [
+        {
+            "value": 1,
+            "content": "Singkawang"
+        },
+        {
+            "value": 0,
+            "content": "Pontianak"
+        },
+        {
+            "value": 0,
+            "content": "Sanggau"
+        },
+        {
+            "value": 0,
+            "content": "Sintang"
+        }
+      ]
+      },
+      {
+        "factID": 7,
+        "quizContent": "Tari Enggang adalah tarian yang di inspirasi oleh ....?",
+      "options": [
+        {
+            "value": 1,
+            "content": "Burung"
+        },
+        {
+            "value": 0,
+            "content": "Kupu-kupu"
+        },
+        {
+            "value": 0,
+            "content": "Mitos"
+        },
+        {
+            "value": 0,
+            "content": "Alam Kalimantan"
+        }
+      ]
+      },
+      {
+        "factID": 8,
+        "quizContent": "Suku ikonik yang berada di kalimantan adalah ...?",
+      "options": [
+        {
+            "value": 1,
+            "content": "Suku Dayak"
+        },
+        {
+            "value": 0,
+            "content": "Suku Darai"
+        },
+        {
+            "value": 0,
+            "content": "Suku Dohoi"
+        },
+        {
+            "value": 0,
+            "content": "Suku Pontianak"
+        }
+      ]
+      },
+      {
+        "factID": 9,
+        "quizContent": "Struktur tradisional yang dapat di temui di kalimantan adalah...?",
+      "options": [
+        {
+            "value": 1,
+            "content": "Rumah Betang"
+        },
+        {
+            "value": 0,
+            "content": "Rumah Bolon"
+        },
+        {
+            "value": 0,
+            "content": "Rumah Ragni"
+        },
+        {
+            "value": 0,
+            "content": "Rumah Baghi"
+        }
+      ]
+      },
+      {
+        "factID": 10,
+        "quizContent": "Nama minuman tradisional dari kalimantan barat yang terbuat dari fermentasi dari beras adalah ...?",
+      "options": [
+        {
+            "value": 1,
+            "content": "Tuak"
+        },
+        {
+            "value": 0,
+            "content": "Luak"
+        },
+        {
+            "value": 0,
+            "content": "Tauk"
+        },
+        {
+            "value": 0,
+            "content": "Laek"
+        }
+      ]
+      }
+]
