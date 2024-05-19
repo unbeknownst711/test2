@@ -42,11 +42,11 @@
   {
     "factType": "culture",
     "factID": 9,
-    "factContent": "Salah satu struktur tradisional yang dapat ditemui di Kalimantan Barat adalah rumah panjang, tempat tinggal bagi beberapa keluarga dalam satu bangunan panjang yang terbuat dari kayu. Rumah panjang seringkali menjadi pusat kegiatan sosial dan budaya masyarakat Dayak."
+    "factContent": "Salah satu struktur tradisional yang dapat ditemui di Kalimantan Barat adalah rumah betang atau nama lainnya rumah panjang, merupakan tempat tinggal bagi beberapa keluarga dalam satu bangunan panjang yang terbuat dari kayu. Rumah panjang seringkali menjadi pusat kegiatan sosial dan budaya masyarakat Dayak."
   },
   {
-    "factType": "place",
+    "factType": "food",
     "factID": 10,
-    "factContent": "Pasir Panjang Singkawang adalah sebuah tempat wisata yang berada di daerah Singkawang. Tempat wisata ini memang sudah banyak dikenal di Kalimantan Barat dan memiliki daya tarik tersendiri"
+    "factContent": "Tuak adalah minuman tradisional yang sangat dikenal di Kalimantan Barat, terutama di kalangan suku Dayak. Minuman ini terbuat dari fermentasi nira (getah manis) dari pohon enau atau aren (Arenga pinnata) dan sering kali juga dari beras yang difermentasi."
   }
 ]
